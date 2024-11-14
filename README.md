@@ -7,7 +7,7 @@ Bonjour! 👋 I'm Hichame, a passionate developer from France. I love working wi
 
 **My Actual Stack:**  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,scss,react,redux,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,scss,react,redux,jest,figma,git)](https://skillicons.dev)
 
 ## GitHub Activity and Contributions
 
