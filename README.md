@@ -1,9 +1,9 @@
-## Hi There!  👋
+## Hi There!  
 # Hichame Belyazid
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hichamebelyazid/)
 
-Bonjour! 👋 I'm Hichame, a passionate developer from France. I love working with modern librairies and frameworks to create innovative and visually appealing applications. My motto : "Every day is an opportunity to learn and surpass your past self."
+ 👋 I'm hbms, a passionate developer. I love working with modern librairies and frameworks to create innovative and visually appealing applications. My motto : "Every day is an opportunity to learn and surpass your past self."
 
 **My Actual Stack:**  
 
